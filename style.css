@@ -1,0 +1,43 @@
+.container {
+  background-color: #121212;
+  color: #E0E0E0;
+  font-family: Arial, sans-serif;
+}
+
+.header {
+  background-color: #1E1E1E;
+  padding: 20px;
+  text-align: center;
+}
+
+.button {
+  background-color: #bb86fc;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  margin: 4px 2px;
+  cursor: pointer;
+  border-radius: 5px;
+}
+
+.button:hover {
+  background-color: #3700b3;
+}
+
+.product-card {
+  background-color: #1E1E1E;
+  border: 1px solid #333;
+  border-radius: 8px;
+  padding: 15px;
+  margin: 10px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.3);
+}
+
+.footer {
+  background-color: #1E1E1E;
+  padding: 10px;
+  text-align: center;
+}
